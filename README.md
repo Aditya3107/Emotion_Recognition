@@ -1,6 +1,6 @@
 # Emotion Recognition
 
-I have combined 4 emotion recognition dataset. Thez are available on Kaggle. 
+I have combined 4 emotion recognition dataset. They are available on Kaggle. 
 
  - CREMA - D (Crowd Sourced Emotional Multimodal Actors Dataset)
 - RAVDESS Emotional speech audio
